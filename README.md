@@ -1,5 +1,5 @@
 # 💫 About Me:
- 👋 Hi, I’m 0koda0!<br><br>🎮 Game developer passionate about creating interactive experiences, artificial intelligence, cybersecurity, and innovative projects.<br><br>I study in cybersecurity, while exploring game development, software engineering, and emerging technologies.<br><br>I recently finished creating a personal cloud hosted at home, using a peer-to-peer (P2P) architecture to enable communication and file sharing between multiple devices.<br><br>🚀 About Me<br><br>- 🎮 Game developer<br>- 🤖 Passionate about artificial intelligence<br>-<br>- 🛠️ Interested in experimental projects<br>- 🌱 Always learning and exploring new technologies<br><br>🛠️ Interests<br><br>- Game development<br>- Artificial intelligence<br>- Cybersecurity<br>- Software development<br>- Distributed systems<br>- Self-hosted solutions<br><br>> Building games, AI projects, secure tools, and self-hosted solutions.
+ 👋 Hi, I’m 0koda0!<br><br>🎮 Game developer passionate about creating interactive experiences, artificial intelligence, cybersecurity, and innovative projects.<br><br>While exploring game development, software engineering, and emerging technologies.<br><br>I recently finished creating a personal cloud hosted at home, using a peer-to-peer (P2P) architecture to enable communication and file sharing between multiple devices.<br><br>🚀 About Me<br><br>- 🎮 Game developer<br>- 🤖 Passionate about artificial intelligence<br>-<br>- 🛠️ Interested in experimental projects<br>- 🌱 Always learning and exploring new technologies<br><br>🛠️ Interests<br><br>- Game development<br>- Artificial intelligence<br>- Cybersecurity<br>- Software development<br>- Distributed systems<br>- Self-hosted solutions<br><br>> Building games, AI projects, secure tools, and self-hosted solutions.
 
 
 
@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...ffffffffffff
 -->
